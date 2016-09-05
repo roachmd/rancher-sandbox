@@ -12,8 +12,12 @@ Learn orchestration using the Autopilot method.
 
 ## Reference Videos
 ***
+#### AutoPilot Pattern
 http://containersummit.io/events/vegas-2016/videos/sci-fi-devops-and-how-you-can-too
 http://autopilotpattern.io/example
+#### Developer Anarchy
+http://www.se-radio.net/2016/03/se-radio-episode-253-fred-george-on-developer-anarchy/
+
 
 ### Build Environment
 ***
